@@ -1,0 +1,12 @@
+# Progate configuration
+.progate/
+
+# すべて無視
+/*
+
+# 自分自身（.gitignore）は無視しない
+!.gitignore
+
+# self_introduction フォルダだけは無視しない
+!/self_introduction/
+!/self_introduction/**
